@@ -1,0 +1,7 @@
+C:\Users\81908\source\repos\koukanndo\koukanndo\ARM\Debug\koukanndo.androidproj.AssemblyReference.cache
+C:\Users\81908\source\repos\koukanndo\koukanndo\ARM\Debug\koukanndo.apk.recipe
+C:\Users\81908\source\repos\koukanndo\koukanndo\ARM\Debug\koukanndo.apk.recipe.merged
+C:\Users\81908\source\repos\koukanndo\koukanndo\ARM\Debug\Package\src\com\koukanndo\koukanndo.java
+C:\Users\81908\source\repos\koukanndo\koukanndo\ARM\Debug\FileStringReplace.incremental
+C:\Users\81908\source\repos\koukanndo\koukanndo\ARM\Debug\koukanndo.apk
+C:\Users\81908\source\repos\koukanndo\koukanndo\ARM\Debug\koukanndo.lastsuccessfuldeploy
