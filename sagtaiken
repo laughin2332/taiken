@@ -1,0 +1,36 @@
+<!DOCTIPY HTML>
+<html>
+  <head>
+    <mate chaset="UTF-8">
+    <title>ワンクリック詐欺体験</title>
+    <script src="javascript.js"></script>
+    <style src="style.css"></style>
+  </head>
+  <body bgcolor="#afa">
+    <h2 id="k">※これは詐欺体験のためのページであり、請求内容は架空のものです。</h2>
+    <h1>登録完了</h1>
+    <div><b><h2 align="center">お客様の会員登録が正常に完了しました。</h2></b>
+    <p id="box">残り<span id="s">０</span>時間<span id="e">０</span>分<span id="c">０</span>秒<br><progress></progress></p>
+    <p>期限内に98,000円お支払いください。</p>
+    <p>お支払いが確認できない場合は<b>法的処置</b>を取らせていただきますのでご注意ください。</p></div>
+    <h2 align="center">お客様の情報</h2>
+    <table border="1"align="center">
+      <tr><td>端末情報</td><td id="ip">習得できませんでした</td></tr>
+      <tr><td>登録日時</td><td id="ymd">習得できませんでした</td></tr>
+    </table>
+    <br>
+    <h2 align="center">お問い合わせ</h2>
+    <table border="1" align="center">
+      <tr><td>電話番号</td><td>090-7564-6483</td></tr>
+      <tr><td>メールアドレス</td><td>laughin2332@sharklasers.com</td></tr>
+    </table>
+    <br>
+    <h2 align="center">お振込先</h2>
+    <table border="1" align="center">
+      <tr><td>銀行名（銀行コード）</td><td>極道銀行（5910）</td></tr>
+      <tr><td>支店名（支店コード）</td><td>八草支店（893）</td></tr>
+      <tr><td>種別</td><td>普通預金</td></tr>
+      <tr><td>口座番号</td><td>5910690</td></tr>
+    </table>
+  </body>
+</html>
