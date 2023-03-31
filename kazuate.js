@@ -1,9 +1,4 @@
-<html>
-<head>
-<title>数当てゲーム</title>
-</head>
-<body>
-  <script>
+
     let i=0;
     alert("3桁の数を当ててみてね☆ 間違えたら…どうなるか分からないよ…？");
     let num=Math.floor(Math.random()*1000);
@@ -22,6 +17,3 @@
       }
     }
     alert("ふっ褒めてやろう…");
-  </script>
-</body>
-</html>
