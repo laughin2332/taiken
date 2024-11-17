@@ -8,9 +8,8 @@
     let i = 0;
     alert("3桁の数を当ててみてね☆ 間違えたら…どうなるか分からないよ…？");
     let num = Math.floor(Math.random()*1000);
-    alert(num);
-    let pr = prompt("数字を入力してね☆");
     while(true){
+      let pr = prompt("数字を入力してね☆");
       if(pr == num){
         alert("ふっ褒めてやろう…");
         break;
